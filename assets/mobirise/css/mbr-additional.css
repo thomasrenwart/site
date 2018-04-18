@@ -1372,6 +1372,14 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
+.cid-qPzCf89bF7 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qPzCf89bF7 .mbr-section-subtitle {
+  color: #767676;
+}
 .cid-qOxlCXTqt7 {
   background-image: url("../../../assets/images/naamloos-4.jpg");
 }
@@ -1772,12 +1780,4 @@ body {
 .cid-qPzz1f82bP .nav-link:hover,
 .cid-qPzz1f82bP .dropdown-item:hover {
   color: #767676 !important;
-}
-.cid-qPzCf89bF7 {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-qPzCf89bF7 .mbr-section-subtitle {
-  color: #767676;
 }
