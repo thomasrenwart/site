@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "home.html",
+    "currentPage": "contact.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 51,
     "versionPublish": "4.6.7",
@@ -3341,11 +3341,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>Expo's</b></p><p><b>2016 </b></p><p><b>- Kan een zin de titel zijn? </b><i>In De Ruimte, Gent</i></p><p><b>2017 </b></p><p><b>- 7+1, </b><i>Kunstacademie Tielt</i></p><p><i>- </i><b>LUCA Biënnale</b>, Leuven, sculpture with Juliane Schreiber and Charlotte Stuby</p><p><b style=\"font-size: 1rem;\">2018</b></p><p><b>- S.H.O.T.S. #64,</b> <i>NULNULTWEE, Gent</i></p><p>Planned expo's in August (Amsterdam) &amp; September (Ghent), more info soon.</p><p><br></p><p><b>Internships</b></p><p>2017 </p><p>- Berlinde de Bruyckere, Studio, Ghent</p><p>- Conny Groenewegen, FAMA, Mediamatic Amsterdam<br></p><p><i><br></i><b><i><br></i></b></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qQTpwe1IOy",
+          "_anchor": "content1-1e",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-1e"
+          "_params": {}
         }
       ]
     },
