@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "contact.html",
+    "currentPage": "sculptures.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 51,
     "versionPublish": "4.6.7",
@@ -1169,15 +1169,15 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Onderschrift hier",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Sympathieke",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery01.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery01.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1100080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1100080-800x1067.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Onderschrift hier",
@@ -1188,8 +1188,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery02.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery02.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1100082.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1100082-800x1067.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Onderschrift hier",
@@ -1200,12 +1200,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery03.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery03.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1100083.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1100083-800x600.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Onderschrift hier",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Geweldige",
@@ -2398,8 +2398,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1100079.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1100079-800x600.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Onderschrift hier",
