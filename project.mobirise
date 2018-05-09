@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "sculptures.html",
+    "currentPage": "home.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 51,
     "versionPublish": "4.6.7",
