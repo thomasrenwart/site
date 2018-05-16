@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "home.html",
+    "currentPage": "contact.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 55,
     "versionPublish": "4.6.7",
