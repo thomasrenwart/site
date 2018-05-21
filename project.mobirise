@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "home.html",
+    "currentPage": "contact.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 55,
     "versionPublish": "4.6.7",
@@ -49,7 +49,7 @@
   "pages": {
     "about.html": {
       "settings": {
-        "meta_descr": "Web Site Generator Description",
+        "meta_descr": "about, thomas, renwart",
         "title": "About",
         "order": 1
       },
@@ -481,7 +481,7 @@
     },
     "embroidery.html": {
       "settings": {
-        "meta_descr": "Web Site Maker Description",
+        "meta_descr": "embroidery, thomas, renwart",
         "title": "Embroidery",
         "order": 2
       },
@@ -1074,7 +1074,7 @@
     },
     "textiles.html": {
       "settings": {
-        "meta_descr": "Site Builder Description",
+        "meta_descr": "textiles, thomas, renwart",
         "title": "Textiles",
         "order": 3
       },
@@ -1643,7 +1643,7 @@
     },
     "floral.html": {
       "settings": {
-        "meta_descr": "Website Generator Description",
+        "meta_descr": "floral, thomas, renwart",
         "title": "Floral",
         "order": 4
       },
@@ -2308,7 +2308,7 @@
     },
     "sculptures.html": {
       "settings": {
-        "meta_descr": "Site Maker Description",
+        "meta_descr": "sculptures, thomas, renwart",
         "title": "Sculptures",
         "order": 6
       },
@@ -2853,7 +2853,7 @@
     },
     "references.html": {
       "settings": {
-        "meta_descr": "Web Page Creator Description",
+        "meta_descr": "references, thomas, renwart",
         "title": "References",
         "order": 7
       },
@@ -3303,7 +3303,7 @@
     },
     "contact.html": {
       "settings": {
-        "meta_descr": "Website Generator Description",
+        "meta_descr": "contact, thomas, renwart",
         "title": "Contact",
         "order": 8
       },
@@ -4182,7 +4182,7 @@
     },
     "poetry.html": {
       "settings": {
-        "meta_descr": "Thomas, Renwart, Poetry, Writing",
+        "meta_descr": "thomas, renwart, poetry, writing",
         "title": "Poetry",
         "order": 5
       },
